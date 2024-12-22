@@ -1,4 +1,4 @@
- # ChatGPT 官方中文版：国内免费指南（支持 ChatGPT-4、4o 和 o1，无需翻墙）【12 月持续更新】 
+ # ChatGPT 官方中文版：国内免费指南（支持 ChatGPT-4、4o 和 o1，无需魔法）【12 月持续更新】 
 
 > 更新时间：2024/12/22 <br /> 
 > 作者：chatgpt-mirror-zh 
